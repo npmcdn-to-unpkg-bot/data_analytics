@@ -1,0 +1,763 @@
+GEO.id,GEO.id2,GEO.display-label,NAICS.id,NAICS.display-label,YEAR.id,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP,ADMIN_PCT,IMPUT_PCT
+Geographic identifier code,Id2,Geographic area name,2012 NAICS code,Meaning of 2012 NAICS code,Year,Number of establishments,"Revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12,Percent of revenue from administrative records (%),Percent of revenue estimated (%)
+0500000US17001,17001,"Adams County, Illinois",22,Utilities,2012,5,Q,D,D,c,Q,Q
+0500000US17001,17001,"Adams County, Illinois",221,Utilities,2012,5,Q,D,D,c,Q,Q
+0500000US17001,17001,"Adams County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,b,Q,Q
+0500000US17001,17001,"Adams County, Illinois",22112,"Electric power transmission, control, and distribution",2012,4,Q,D,D,b,Q,Q
+0500000US17001,17001,"Adams County, Illinois",221122,Electric power distribution,2012,4,Q,D,D,b,Q,Q
+0500000US17001,17001,"Adams County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17001,17001,"Adams County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17001,17001,"Adams County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17003,17003,"Alexander County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17003,17003,"Alexander County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17003,17003,"Alexander County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17003,17003,"Alexander County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17003,17003,"Alexander County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17005,17005,"Bond County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17005,17005,"Bond County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17005,17005,"Bond County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17005,17005,"Bond County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17005,17005,"Bond County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17005,17005,"Bond County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17005,17005,"Bond County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17005,17005,"Bond County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17007,17007,"Boone County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17007,17007,"Boone County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17007,17007,"Boone County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17007,17007,"Boone County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17007,17007,"Boone County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",22111,Electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17011,17011,"Bureau County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17017,17017,"Cass County, Illinois",22,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17017,17017,"Cass County, Illinois",221,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17017,17017,"Cass County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17017,17017,"Cass County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17017,17017,"Cass County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",22,Utilities,2012,7,Q,18269,4759,241,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",221,Utilities,2012,7,Q,18269,4759,241,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,c,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,c,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",2213,"Water, sewage and other systems",2012,3,Q,D,D,b,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",22131,Water supply and irrigation systems,2012,3,Q,D,D,b,Q,Q
+0500000US17019,17019,"Champaign County, Illinois",221310,Water supply and irrigation systems,2012,3,Q,D,D,b,Q,Q
+0500000US17021,17021,"Christian County, Illinois",22,Utilities,2012,4,Q,D,D,c,Q,Q
+0500000US17021,17021,"Christian County, Illinois",221,Utilities,2012,4,Q,D,D,c,Q,Q
+0500000US17021,17021,"Christian County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17021,17021,"Christian County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17021,17021,"Christian County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,c,Q,Q
+0500000US17021,17021,"Christian County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17021,17021,"Christian County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17021,17021,"Christian County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17025,17025,"Clay County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17025,17025,"Clay County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17025,17025,"Clay County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17025,17025,"Clay County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17025,17025,"Clay County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17027,17027,"Clinton County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17029,17029,"Coles County, Illinois",22,Utilities,2012,4,Q,D,D,c,Q,Q
+0500000US17029,17029,"Coles County, Illinois",221,Utilities,2012,4,Q,D,D,c,Q,Q
+0500000US17029,17029,"Coles County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,c,Q,Q
+0500000US17029,17029,"Coles County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,c,Q,Q
+0500000US17029,17029,"Coles County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,c,Q,Q
+0500000US17029,17029,"Coles County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17029,17029,"Coles County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17029,17029,"Coles County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22,Utilities,2012,80,Q,699226,203399,6562,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221,Utilities,2012,80,Q,699226,203399,6562,Q,Q
+0500000US17031,17031,"Cook County, Illinois",2211,"Electric power generation, transmission and distribution",2012,39,Q,489238,148466,3840,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22111,Electric power generation,2012,15,Q,D,D,f,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221111,Hydroelectric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221112,Fossil fuel electric power generation,2012,5,Q,D,D,e,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221114,Solar electric power generation,2012,2,Q,D,D,b,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221115,Wind electric power generation,2012,7,Q,D,D,c,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22112,"Electric power transmission, control, and distribution",2012,24,Q,D,D,h,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221121,Electric bulk power transmission and control,2012,7,Q,D,D,f,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221122,Electric power distribution,2012,17,Q,D,D,g,Q,Q
+0500000US17031,17031,"Cook County, Illinois",2212,Natural gas distribution,2012,29,Q,D,D,g,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22121,Natural gas distribution,2012,29,Q,D,D,g,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221210,Natural gas distribution,2012,29,Q,D,D,g,Q,Q
+0500000US17031,17031,"Cook County, Illinois",2213,"Water, sewage and other systems",2012,12,Q,D,D,e,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22131,Water supply and irrigation systems,2012,7,Q,D,D,e,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221310,Water supply and irrigation systems,2012,7,Q,D,D,e,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22132,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221320,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17031,17031,"Cook County, Illinois",22133,Steam and air-conditioning supply,2012,3,Q,D,D,b,Q,Q
+0500000US17031,17031,"Cook County, Illinois",221330,Steam and air-conditioning supply,2012,3,Q,D,D,b,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17033,17033,"Crawford County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",22,Utilities,2012,6,Q,D,D,e,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",221,Utilities,2012,6,Q,D,D,e,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",221121,Electric bulk power transmission and control,2012,2,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",2212,Natural gas distribution,2012,2,Q,D,D,e,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",22121,Natural gas distribution,2012,2,Q,D,D,e,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",221210,Natural gas distribution,2012,2,Q,D,D,e,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17037,17037,"DeKalb County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17039,17039,"De Witt County, Illinois",22,Utilities,2012,2,Q,D,D,f,Q,Q
+0500000US17039,17039,"De Witt County, Illinois",221,Utilities,2012,2,Q,D,D,f,Q,Q
+0500000US17039,17039,"De Witt County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,f,Q,Q
+0500000US17039,17039,"De Witt County, Illinois",22111,Electric power generation,2012,2,Q,D,D,f,Q,Q
+0500000US17039,17039,"De Witt County, Illinois",221111,Hydroelectric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17039,17039,"De Witt County, Illinois",221113,Nuclear electric power generation,2012,1,Q,D,D,f,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17041,17041,"Douglas County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",22,Utilities,2012,32,Q,579271,173086,5162,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221,Utilities,2012,32,Q,579271,173086,5162,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",2211,"Electric power generation, transmission and distribution",2012,20,Q,D,D,h,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",22111,Electric power generation,2012,10,Q,198336,68940,1919,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221111,Hydroelectric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221112,Fossil fuel electric power generation,2012,5,Q,D,D,c,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221113,Nuclear electric power generation,2012,2,Q,D,D,g,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221114,Solar electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",22112,"Electric power transmission, control, and distribution",2012,10,Q,D,D,g,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221121,Electric bulk power transmission and control,2012,2,Q,D,D,e,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221122,Electric power distribution,2012,8,Q,D,D,g,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",2212,Natural gas distribution,2012,7,Q,D,D,g,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",22121,Natural gas distribution,2012,7,Q,D,D,g,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221210,Natural gas distribution,2012,7,Q,D,D,g,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",2213,"Water, sewage and other systems",2012,5,Q,D,D,c,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",22131,Water supply and irrigation systems,2012,3,Q,D,D,c,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221310,Water supply and irrigation systems,2012,3,Q,D,D,c,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",22132,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17043,17043,"DuPage County, Illinois",221320,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17045,17045,"Edgar County, Illinois",22,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17045,17045,"Edgar County, Illinois",221,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17045,17045,"Edgar County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17045,17045,"Edgar County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17045,17045,"Edgar County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",22,Utilities,2012,4,Q,213,59,7,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",221,Utilities,2012,4,Q,213,59,7,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17047,17047,"Edwards County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,b,Q,Q
+0500000US17049,17049,"Effingham County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,b,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",22,Utilities,2012,4,Q,1347,371,23,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",221,Utilities,2012,4,Q,1347,371,23,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17051,17051,"Fayette County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17053,17053,"Ford County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17053,17053,"Ford County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17053,17053,"Ford County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17053,17053,"Ford County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17053,17053,"Ford County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17053,17053,"Ford County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17053,17053,"Ford County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17053,17053,"Ford County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17055,17055,"Franklin County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17055,17055,"Franklin County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17055,17055,"Franklin County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17055,17055,"Franklin County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17055,17055,"Franklin County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",22,Utilities,2012,5,Q,D,D,c,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",221,Utilities,2012,5,Q,D,D,c,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,c,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",22112,"Electric power transmission, control, and distribution",2012,4,Q,D,D,c,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",221122,Electric power distribution,2012,4,Q,D,D,c,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17057,17057,"Fulton County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17059,17059,"Gallatin County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17059,17059,"Gallatin County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17059,17059,"Gallatin County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17059,17059,"Gallatin County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17059,17059,"Gallatin County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17061,17061,"Greene County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17061,17061,"Greene County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17061,17061,"Greene County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17061,17061,"Greene County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17061,17061,"Greene County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",22,Utilities,2012,4,Q,D,D,g,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",221,Utilities,2012,4,Q,D,D,g,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,g,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",22111,Electric power generation,2012,3,Q,D,D,g,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",221113,Nuclear electric power generation,2012,2,Q,D,D,g,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17063,17063,"Grundy County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",22,Utilities,2012,6,Q,2436,566,40,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",221,Utilities,2012,6,Q,2436,566,40,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",22132,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17067,17067,"Hancock County, Illinois",221320,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17069,17069,"Hardin County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17069,17069,"Hardin County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17069,17069,"Hardin County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17069,17069,"Hardin County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17069,17069,"Hardin County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",22,Utilities,2012,5,Q,3289,751,74,Q,Q
+0500000US17073,17073,"Henry County, Illinois",221,Utilities,2012,5,Q,3289,751,74,Q,Q
+0500000US17073,17073,"Henry County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",22111,Electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",221114,Solar electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,a,Q,Q
+0500000US17073,17073,"Henry County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,b,Q,Q
+0500000US17073,17073,"Henry County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,b,Q,Q
+0500000US17073,17073,"Henry County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,b,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",22,Utilities,2012,2,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",221,Utilities,2012,2,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17075,17075,"Iroquois County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",22,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",221,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,b,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17077,17077,"Jackson County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17079,17079,"Jasper County, Illinois",22,Utilities,2012,2,Q,D,D,c,Q,Q
+0500000US17079,17079,"Jasper County, Illinois",221,Utilities,2012,2,Q,D,D,c,Q,Q
+0500000US17079,17079,"Jasper County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,c,Q,Q
+0500000US17079,17079,"Jasper County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,c,Q,Q
+0500000US17079,17079,"Jasper County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,c,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17081,17081,"Jefferson County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17083,17083,"Jersey County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17085,17085,"Jo Daviess County, Illinois",22,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17085,17085,"Jo Daviess County, Illinois",221,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17085,17085,"Jo Daviess County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17085,17085,"Jo Daviess County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17085,17085,"Jo Daviess County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17089,17089,"Kane County, Illinois",22,Utilities,2012,7,Q,D,D,e,Q,Q
+0500000US17089,17089,"Kane County, Illinois",221,Utilities,2012,7,Q,D,D,e,Q,Q
+0500000US17089,17089,"Kane County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17089,17089,"Kane County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17089,17089,"Kane County, Illinois",221121,Electric bulk power transmission and control,2012,2,Q,D,D,c,Q,Q
+0500000US17089,17089,"Kane County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17089,17089,"Kane County, Illinois",2212,Natural gas distribution,2012,3,Q,D,D,c,Q,Q
+0500000US17089,17089,"Kane County, Illinois",22121,Natural gas distribution,2012,3,Q,D,D,c,Q,Q
+0500000US17089,17089,"Kane County, Illinois",221210,Natural gas distribution,2012,3,Q,D,D,c,Q,Q
+0500000US17089,17089,"Kane County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17089,17089,"Kane County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17089,17089,"Kane County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",22,Utilities,2012,3,Q,10725,2713,144,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",221,Utilities,2012,3,Q,10725,2713,144,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,b,Q,Q
+0500000US17091,17091,"Kankakee County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",22,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",221,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",22111,Electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17093,17093,"Kendall County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17095,17095,"Knox County, Illinois",22,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17095,17095,"Knox County, Illinois",221,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17095,17095,"Knox County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17095,17095,"Knox County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17095,17095,"Knox County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17095,17095,"Knox County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17095,17095,"Knox County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17095,17095,"Knox County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17097,17097,"Lake County, Illinois",22,Utilities,2012,15,Q,77974,21163,775,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221,Utilities,2012,15,Q,77974,21163,775,Q,Q
+0500000US17097,17097,"Lake County, Illinois",2211,"Electric power generation, transmission and distribution",2012,6,Q,D,D,f,Q,Q
+0500000US17097,17097,"Lake County, Illinois",22111,Electric power generation,2012,4,Q,D,D,c,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,c,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221113,Nuclear electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221116,Geothermal electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17097,17097,"Lake County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,e,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,e,Q,Q
+0500000US17097,17097,"Lake County, Illinois",2212,Natural gas distribution,2012,8,Q,D,D,c,Q,Q
+0500000US17097,17097,"Lake County, Illinois",22121,Natural gas distribution,2012,8,Q,D,D,c,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221210,Natural gas distribution,2012,8,Q,D,D,c,Q,Q
+0500000US17097,17097,"Lake County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17097,17097,"Lake County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17097,17097,"Lake County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",22,Utilities,2012,10,Q,D,D,g,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221,Utilities,2012,10,Q,D,D,g,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",2211,"Electric power generation, transmission and distribution",2012,5,Q,D,D,g,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",22111,Electric power generation,2012,2,Q,D,D,f,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221113,Nuclear electric power generation,2012,1,Q,D,D,f,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221121,Electric bulk power transmission and control,2012,2,Q,D,D,b,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",2212,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",22121,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221210,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",2213,"Water, sewage and other systems",2012,3,Q,D,D,b,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",22132,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17099,17099,"LaSalle County, Illinois",221320,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17101,17101,"Lawrence County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17101,17101,"Lawrence County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17101,17101,"Lawrence County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17101,17101,"Lawrence County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17101,17101,"Lawrence County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17103,17103,"Lee County, Illinois",22,Utilities,2012,5,Q,11365,2968,113,Q,Q
+0500000US17103,17103,"Lee County, Illinois",221,Utilities,2012,5,Q,11365,2968,113,Q,Q
+0500000US17103,17103,"Lee County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,b,Q,Q
+0500000US17103,17103,"Lee County, Illinois",22111,Electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17103,17103,"Lee County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17103,17103,"Lee County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17103,17103,"Lee County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,b,Q,Q
+0500000US17103,17103,"Lee County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17103,17103,"Lee County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17103,17103,"Lee County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17103,17103,"Lee County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",22,Utilities,2012,8,Q,4683,1229,75,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",221,Utilities,2012,8,Q,4683,1229,75,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",22111,Electric power generation,2012,4,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",221115,Wind electric power generation,2012,4,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",2212,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",22121,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",221210,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17105,17105,"Livingston County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17107,17107,"Logan County, Illinois",22,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17107,17107,"Logan County, Illinois",221,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17107,17107,"Logan County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17107,17107,"Logan County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17107,17107,"Logan County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17107,17107,"Logan County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17107,17107,"Logan County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17107,17107,"Logan County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17109,17109,"McDonough County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",22,Utilities,2012,8,Q,D,D,c,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",221,Utilities,2012,8,Q,D,D,c,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",221121,Electric bulk power transmission and control,2012,3,Q,D,D,c,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",2213,"Water, sewage and other systems",2012,4,Q,D,D,a,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",22131,Water supply and irrigation systems,2012,3,Q,73,18,5,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",221310,Water supply and irrigation systems,2012,3,Q,73,18,5,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17111,17111,"McHenry County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17113,17113,"McLean County, Illinois",22,Utilities,2012,8,Q,D,D,c,Q,Q
+0500000US17113,17113,"McLean County, Illinois",221,Utilities,2012,8,Q,D,D,c,Q,Q
+0500000US17113,17113,"McLean County, Illinois",2211,"Electric power generation, transmission and distribution",2012,5,Q,D,D,c,Q,Q
+0500000US17113,17113,"McLean County, Illinois",22111,Electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17113,17113,"McLean County, Illinois",221115,Wind electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17113,17113,"McLean County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17113,17113,"McLean County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,c,Q,Q
+0500000US17113,17113,"McLean County, Illinois",2212,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17113,17113,"McLean County, Illinois",22121,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17113,17113,"McLean County, Illinois",221210,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17113,17113,"McLean County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17113,17113,"McLean County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17113,17113,"McLean County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17115,17115,"Macon County, Illinois",22,Utilities,2012,9,Q,D,D,f,Q,Q
+0500000US17115,17115,"Macon County, Illinois",221,Utilities,2012,9,Q,D,D,f,Q,Q
+0500000US17115,17115,"Macon County, Illinois",2211,"Electric power generation, transmission and distribution",2012,9,Q,D,D,f,Q,Q
+0500000US17115,17115,"Macon County, Illinois",22111,Electric power generation,2012,2,Q,D,D,b,Q,Q
+0500000US17115,17115,"Macon County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,b,Q,Q
+0500000US17115,17115,"Macon County, Illinois",22112,"Electric power transmission, control, and distribution",2012,7,Q,D,D,f,Q,Q
+0500000US17115,17115,"Macon County, Illinois",221122,Electric power distribution,2012,7,Q,D,D,f,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",22,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",221,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17117,17117,"Macoupin County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17119,17119,"Madison County, Illinois",22,Utilities,2012,17,Q,65847,18611,937,Q,Q
+0500000US17119,17119,"Madison County, Illinois",221,Utilities,2012,17,Q,65847,18611,937,Q,Q
+0500000US17119,17119,"Madison County, Illinois",2211,"Electric power generation, transmission and distribution",2012,7,Q,D,D,e,Q,Q
+0500000US17119,17119,"Madison County, Illinois",22111,Electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17119,17119,"Madison County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17119,17119,"Madison County, Illinois",22112,"Electric power transmission, control, and distribution",2012,6,Q,D,D,e,Q,Q
+0500000US17119,17119,"Madison County, Illinois",221122,Electric power distribution,2012,6,Q,D,D,e,Q,Q
+0500000US17119,17119,"Madison County, Illinois",2213,"Water, sewage and other systems",2012,10,Q,D,D,e,Q,Q
+0500000US17119,17119,"Madison County, Illinois",22131,Water supply and irrigation systems,2012,7,Q,D,D,e,Q,Q
+0500000US17119,17119,"Madison County, Illinois",221310,Water supply and irrigation systems,2012,7,Q,D,D,e,Q,Q
+0500000US17119,17119,"Madison County, Illinois",22132,Sewage treatment facilities,2012,3,Q,D,D,b,Q,Q
+0500000US17119,17119,"Madison County, Illinois",221320,Sewage treatment facilities,2012,3,Q,D,D,b,Q,Q
+0500000US17121,17121,"Marion County, Illinois",22,Utilities,2012,5,Q,D,D,b,Q,Q
+0500000US17121,17121,"Marion County, Illinois",221,Utilities,2012,5,Q,D,D,b,Q,Q
+0500000US17121,17121,"Marion County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17121,17121,"Marion County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17121,17121,"Marion County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17121,17121,"Marion County, Illinois",2213,"Water, sewage and other systems",2012,3,Q,D,D,a,Q,Q
+0500000US17121,17121,"Marion County, Illinois",22131,Water supply and irrigation systems,2012,3,Q,D,D,a,Q,Q
+0500000US17121,17121,"Marion County, Illinois",221310,Water supply and irrigation systems,2012,3,Q,D,D,a,Q,Q
+0500000US17125,17125,"Mason County, Illinois",22,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17125,17125,"Mason County, Illinois",221,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17125,17125,"Mason County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17125,17125,"Mason County, Illinois",22111,Electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17125,17125,"Mason County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17127,17127,"Massac County, Illinois",22,Utilities,2012,2,Q,D,D,c,Q,Q
+0500000US17127,17127,"Massac County, Illinois",221,Utilities,2012,2,Q,D,D,c,Q,Q
+0500000US17127,17127,"Massac County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,c,Q,Q
+0500000US17127,17127,"Massac County, Illinois",22111,Electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17127,17127,"Massac County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17127,17127,"Massac County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17127,17127,"Massac County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17127,17127,"Massac County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17129,17129,"Menard County, Illinois",22,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17129,17129,"Menard County, Illinois",221,Utilities,2012,2,Q,D,D,b,Q,Q
+0500000US17129,17129,"Menard County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17129,17129,"Menard County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17129,17129,"Menard County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",22,Utilities,2012,2,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",221,Utilities,2012,2,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17131,17131,"Mercer County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17133,17133,"Monroe County, Illinois",22,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17133,17133,"Monroe County, Illinois",221,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17133,17133,"Monroe County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17133,17133,"Monroe County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17133,17133,"Monroe County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",22,Utilities,2012,4,Q,D,D,c,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",221,Utilities,2012,4,Q,D,D,c,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",2211,"Electric power generation, transmission and distribution",2012,4,Q,D,D,c,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",22111,Electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17135,17135,"Montgomery County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",22,Utilities,2012,3,Q,D,D,c,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",221,Utilities,2012,3,Q,D,D,c,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,c,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",22111,Electric power generation,2012,2,Q,D,D,b,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,b,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17137,17137,"Morgan County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17139,17139,"Moultrie County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17139,17139,"Moultrie County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17139,17139,"Moultrie County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17139,17139,"Moultrie County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17139,17139,"Moultrie County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,a,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",22,Utilities,2012,3,Q,D,D,f,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",221,Utilities,2012,3,Q,D,D,f,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,f,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",22111,Electric power generation,2012,1,Q,D,D,f,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",221113,Nuclear electric power generation,2012,1,Q,D,D,f,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,a,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17141,17141,"Ogle County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",22,Utilities,2012,13,Q,D,D,f,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",221,Utilities,2012,13,Q,D,D,f,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",2211,"Electric power generation, transmission and distribution",2012,10,Q,D,D,f,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",22111,Electric power generation,2012,2,Q,D,D,c,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,c,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",22112,"Electric power transmission, control, and distribution",2012,8,Q,D,D,e,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",221122,Electric power distribution,2012,8,Q,D,D,e,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",2213,"Water, sewage and other systems",2012,3,Q,D,D,c,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",22131,Water supply and irrigation systems,2012,3,Q,D,D,c,Q,Q
+0500000US17143,17143,"Peoria County, Illinois",221310,Water supply and irrigation systems,2012,3,Q,D,D,c,Q,Q
+0500000US17147,17147,"Piatt County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17147,17147,"Piatt County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17147,17147,"Piatt County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17147,17147,"Piatt County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17147,17147,"Piatt County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17149,17149,"Pike County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17149,17149,"Pike County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17149,17149,"Pike County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17149,17149,"Pike County, Illinois",22111,Electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17149,17149,"Pike County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17149,17149,"Pike County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17149,17149,"Pike County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17151,17151,"Pope County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17151,17151,"Pope County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17151,17151,"Pope County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17151,17151,"Pope County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17151,17151,"Pope County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17155,17155,"Putnam County, Illinois",22,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17155,17155,"Putnam County, Illinois",221,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17155,17155,"Putnam County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17155,17155,"Putnam County, Illinois",22111,Electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17155,17155,"Putnam County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",22,Utilities,2012,3,Q,26124,6755,261,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",221,Utilities,2012,3,Q,26124,6755,261,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,26124,6755,261,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",22111,Electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17157,17157,"Randolph County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17159,17159,"Richland County, Illinois",22,Utilities,2012,3,Q,5008,1723,78,Q,Q
+0500000US17159,17159,"Richland County, Illinois",221,Utilities,2012,3,Q,5008,1723,78,Q,Q
+0500000US17159,17159,"Richland County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17159,17159,"Richland County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17159,17159,"Richland County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17159,17159,"Richland County, Illinois",2212,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17159,17159,"Richland County, Illinois",22121,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17159,17159,"Richland County, Illinois",221210,Natural gas distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",22,Utilities,2012,9,Q,D,D,g,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",221,Utilities,2012,9,Q,D,D,g,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",2211,"Electric power generation, transmission and distribution",2012,7,Q,D,D,g,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",22111,Electric power generation,2012,3,Q,D,D,f,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,b,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",221113,Nuclear electric power generation,2012,1,Q,D,D,f,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",22112,"Electric power transmission, control, and distribution",2012,4,Q,D,D,c,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",221122,Electric power distribution,2012,4,Q,D,D,c,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17161,17161,"Rock Island County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",22,Utilities,2012,22,Q,101514,27714,1136,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",221,Utilities,2012,22,Q,101514,27714,1136,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",2211,"Electric power generation, transmission and distribution",2012,8,Q,D,D,f,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",22111,Electric power generation,2012,3,Q,D,D,f,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",221112,Fossil fuel electric power generation,2012,3,Q,D,D,f,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",22112,"Electric power transmission, control, and distribution",2012,5,Q,D,D,e,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",221122,Electric power distribution,2012,5,Q,D,D,e,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",2213,"Water, sewage and other systems",2012,14,Q,D,D,e,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",22131,Water supply and irrigation systems,2012,10,Q,D,D,c,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",221310,Water supply and irrigation systems,2012,10,Q,D,D,c,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",22132,Sewage treatment facilities,2012,4,Q,D,D,b,Q,Q
+0500000US17163,17163,"St. Clair County, Illinois",221320,Sewage treatment facilities,2012,4,Q,D,D,b,Q,Q
+0500000US17165,17165,"Saline County, Illinois",22,Utilities,2012,5,Q,8099,1932,104,Q,Q
+0500000US17165,17165,"Saline County, Illinois",221,Utilities,2012,5,Q,8099,1932,104,Q,Q
+0500000US17165,17165,"Saline County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17165,17165,"Saline County, Illinois",22112,"Electric power transmission, control, and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17165,17165,"Saline County, Illinois",221122,Electric power distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17165,17165,"Saline County, Illinois",2212,Natural gas distribution,2012,2,Q,D,D,a,Q,Q
+0500000US17165,17165,"Saline County, Illinois",22121,Natural gas distribution,2012,2,Q,D,D,a,Q,Q
+0500000US17165,17165,"Saline County, Illinois",221210,Natural gas distribution,2012,2,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",22,Utilities,2012,15,Q,D,D,e,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",221,Utilities,2012,15,Q,D,D,e,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",2211,"Electric power generation, transmission and distribution",2012,14,Q,D,D,e,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",22111,Electric power generation,2012,2,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",22112,"Electric power transmission, control, and distribution",2012,12,Q,D,D,c,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",221122,Electric power distribution,2012,11,Q,D,D,c,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17167,17167,"Sangamon County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17171,17171,"Scott County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17171,17171,"Scott County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17171,17171,"Scott County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17171,17171,"Scott County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17171,17171,"Scott County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17171,17171,"Scott County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17171,17171,"Scott County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17171,17171,"Scott County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17171,17171,"Scott County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17171,17171,"Scott County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17173,17173,"Shelby County, Illinois",22,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17173,17173,"Shelby County, Illinois",221,Utilities,2012,1,Q,D,D,b,Q,Q
+0500000US17173,17173,"Shelby County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17173,17173,"Shelby County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17173,17173,"Shelby County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17175,17175,"Stark County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17175,17175,"Stark County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17175,17175,"Stark County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,a,Q,Q
+0500000US17175,17175,"Stark County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17175,17175,"Stark County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,b,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17177,17177,"Stephenson County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",22,Utilities,2012,7,Q,D,D,e,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",221,Utilities,2012,7,Q,D,D,e,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,e,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",22111,Electric power generation,2012,2,Q,D,D,c,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",221115,Wind electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",2213,"Water, sewage and other systems",2012,4,Q,D,D,b,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",22132,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17179,17179,"Tazewell County, Illinois",221320,Sewage treatment facilities,2012,2,Q,D,D,a,Q,Q
+0500000US17181,17181,"Union County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17181,17181,"Union County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17181,17181,"Union County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17181,17181,"Union County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17181,17181,"Union County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17181,17181,"Union County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17181,17181,"Union County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17181,17181,"Union County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",22,Utilities,2012,7,Q,6785,1631,124,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",221,Utilities,2012,7,Q,6785,1631,124,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",2213,"Water, sewage and other systems",2012,4,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",22132,Sewage treatment facilities,2012,2,Q,D,D,b,Q,Q
+0500000US17183,17183,"Vermilion County, Illinois",221320,Sewage treatment facilities,2012,2,Q,D,D,b,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",22,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",221,Utilities,2012,3,Q,D,D,b,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",2211,"Electric power generation, transmission and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,b,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",221122,Electric power distribution,2012,2,Q,D,D,b,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17185,17185,"Wabash County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17189,17189,"Washington County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17189,17189,"Washington County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17189,17189,"Washington County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17189,17189,"Washington County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17189,17189,"Washington County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",22,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",221,Utilities,2012,4,Q,D,D,b,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",2211,"Electric power generation, transmission and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",22112,"Electric power transmission, control, and distribution",2012,1,Q,D,D,b,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",2213,"Water, sewage and other systems",2012,3,Q,D,D,a,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",22131,Water supply and irrigation systems,2012,3,Q,D,D,a,Q,Q
+0500000US17191,17191,"Wayne County, Illinois",221310,Water supply and irrigation systems,2012,3,Q,D,D,a,Q,Q
+0500000US17193,17193,"White County, Illinois",22,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17193,17193,"White County, Illinois",221,Utilities,2012,1,Q,D,D,a,Q,Q
+0500000US17193,17193,"White County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17193,17193,"White County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17193,17193,"White County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",22,Utilities,2012,2,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",221,Utilities,2012,2,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",2212,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",22121,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",221210,Natural gas distribution,2012,1,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",2213,"Water, sewage and other systems",2012,1,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",22131,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17195,17195,"Whiteside County, Illinois",221310,Water supply and irrigation systems,2012,1,Q,D,D,a,Q,Q
+0500000US17197,17197,"Will County, Illinois",22,Utilities,2012,23,Q,D,D,g,Q,Q
+0500000US17197,17197,"Will County, Illinois",221,Utilities,2012,23,Q,D,D,g,Q,Q
+0500000US17197,17197,"Will County, Illinois",2211,"Electric power generation, transmission and distribution",2012,10,Q,D,D,g,Q,Q
+0500000US17197,17197,"Will County, Illinois",22111,Electric power generation,2012,3,Q,D,D,f,Q,Q
+0500000US17197,17197,"Will County, Illinois",221112,Fossil fuel electric power generation,2012,2,Q,D,D,e,Q,Q
+0500000US17197,17197,"Will County, Illinois",221113,Nuclear electric power generation,2012,1,Q,D,D,b,Q,Q
+0500000US17197,17197,"Will County, Illinois",22112,"Electric power transmission, control, and distribution",2012,7,Q,D,D,f,Q,Q
+0500000US17197,17197,"Will County, Illinois",221121,Electric bulk power transmission and control,2012,2,Q,D,D,c,Q,Q
+0500000US17197,17197,"Will County, Illinois",221122,Electric power distribution,2012,5,Q,D,D,f,Q,Q
+0500000US17197,17197,"Will County, Illinois",2212,Natural gas distribution,2012,8,Q,D,D,c,Q,Q
+0500000US17197,17197,"Will County, Illinois",22121,Natural gas distribution,2012,8,Q,D,D,c,Q,Q
+0500000US17197,17197,"Will County, Illinois",221210,Natural gas distribution,2012,8,Q,D,D,c,Q,Q
+0500000US17197,17197,"Will County, Illinois",2213,"Water, sewage and other systems",2012,5,Q,D,D,b,Q,Q
+0500000US17197,17197,"Will County, Illinois",22131,Water supply and irrigation systems,2012,4,Q,D,D,a,Q,Q
+0500000US17197,17197,"Will County, Illinois",221310,Water supply and irrigation systems,2012,4,Q,D,D,a,Q,Q
+0500000US17197,17197,"Will County, Illinois",22132,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17197,17197,"Will County, Illinois",221320,Sewage treatment facilities,2012,1,Q,D,D,a,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",22,Utilities,2012,5,Q,D,D,c,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",221,Utilities,2012,5,Q,D,D,c,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",2211,"Electric power generation, transmission and distribution",2012,5,Q,D,D,c,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",22111,Electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,c,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",22112,"Electric power transmission, control, and distribution",2012,4,Q,D,D,c,Q,Q
+0500000US17199,17199,"Williamson County, Illinois",221122,Electric power distribution,2012,4,Q,D,D,c,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",22,Utilities,2012,8,Q,D,D,e,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",221,Utilities,2012,8,Q,D,D,e,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",2211,"Electric power generation, transmission and distribution",2012,3,Q,D,D,e,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",22111,Electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",221112,Fossil fuel electric power generation,2012,1,Q,D,D,a,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",22112,"Electric power transmission, control, and distribution",2012,2,Q,D,D,e,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",221121,Electric bulk power transmission and control,2012,1,Q,D,D,e,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",221122,Electric power distribution,2012,1,Q,D,D,b,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",2212,Natural gas distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",22121,Natural gas distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",221210,Natural gas distribution,2012,3,Q,D,D,b,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",2213,"Water, sewage and other systems",2012,2,Q,D,D,a,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",22131,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
+0500000US17201,17201,"Winnebago County, Illinois",221310,Water supply and irrigation systems,2012,2,Q,D,D,a,Q,Q
